@@ -1,0 +1,41 @@
+# Build output
+build/
+Debug/
+Release/
+x64/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exp
+*.lib
+*.exe
+*.dll
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+cmake-build-*/
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+.qtcreator/
+*.user
+*.pro.user*
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.suo
+*.sln.docstates
+
+# AI helper files
+.claude/
+.agent/
+CLAUDE.md
+
+# Backups
+*_backup.cpp

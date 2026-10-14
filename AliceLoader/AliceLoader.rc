@@ -1,0 +1,3 @@
+// AliceLoader.rc — asInvoker manifest (no UAC prompt)
+#include <windows.h>
+1 RT_MANIFEST "AliceLoader.manifest"

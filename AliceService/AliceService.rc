@@ -1,0 +1,3 @@
+// AliceService.rc — asInvoker manifest (SCM elevates the service itself)
+#include <windows.h>
+1 RT_MANIFEST "AliceService.manifest"

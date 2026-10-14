@@ -1,0 +1,9 @@
+{
+  "name": "com.alice.bridge",
+  "description": "Alice AI Bridge",
+  "path": "C:\\Users\\JASKA\\AppData\\Roaming\\Alice\\alice_host.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://ildaadncdalpgbniagplmkfnmpgckfgm/"
+  ]
+}
